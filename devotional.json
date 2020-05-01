@@ -1,0 +1,300 @@
+{
+  "music": [
+    {  
+        "id":44,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Rafa Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/rafaradio.jpg",
+        "site":"http://stream.zeno.fm/nz9azzqqbrzuv"
+     },
+     {  
+        "id":45,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Life Light Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/lifelightradio.jpg",
+        "site":"http://178.32.62.154:8548/stream"
+     },
+     {  
+        "id":46,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Joshua Generation Media Radio",
+        "post_img":"https://radiosindia.com/images/jgmradio.jpg",
+        "site":"http://67.212.165.106:8093/;stream.mp3"
+     },
+     {  
+        "id":47,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Psalms Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/psalmsradio.jpg",
+        "site":"http://viadj.viastreaming.net:7084/;stream.mp3"
+     },
+     {  
+        "id":48,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Shalom Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/shalomradio.jpg",
+        "site":"https://stream.radio.co/s1383afdc9/listen?ver=828256"
+     },
+     {  
+        "id":49,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Revive Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/reviveradio.jpg",
+        "site":"https://eu7.fastcast4u.com/proxy/reviveradio?mp=/1"
+     },
+     {  
+        "id":50,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Radio Wind",
+        "post_img":"https://radiosindia.com/images/radiowind.jpg",
+        "site":"https://stream.radio.co/s9015a8e16/listen"
+     },
+     {  
+        "id":51,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Radio angelos Malayalam",
+        "post_img":"https://radiosindia.com/images/radioangelos.jpg",
+        "site":"http://s7.voscast.com:9562/;stream.mp3"
+     },
+     {  
+        "id":52,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Bafa Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/bafaradio.jpg",
+        "site":"http://198.245.60.88:8300/stream"
+     },
+     {  
+        "id":53,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Green Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/greenradio.jpg",
+        "site":"http://37.59.32.115:5139/;"
+     },
+     {  
+        "id":54,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Luminous Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/luminousradio.jpg",
+        "site":"http://192.111.140.6:8546/stream"
+     },
+     {  
+        "id":55,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Sehion Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/sehionradio.jpg",
+        "site":"http://199.195.194.140:8012/stream"
+     },
+     {  
+        "id":56,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Radio Maria Malayalam",
+        "post_img":"https://radiosindia.com/images/radiomaria.jpg",
+        "site":"https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream"
+     },
+     {  
+        "id":57,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Peace Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/peaceradio.jpg",
+        "site":"http://stream.peaceradio.com:8000/high"
+     },
+     {  
+        "id":58,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Mappila songs Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/mappilasongs.jpg",
+        "site":"http://node-31.zeno.fm/57tmu33zetzuv?rj-ttl=5&rj-tok=AAABcW4OSUoA1kfKm1us9Ypm-g"
+     },
+     {  
+        "id":59,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Radio Islam Malayalam",
+        "post_img":"https://radiosindia.com/images/radioislam.jpg",
+        "site":"http://radioislamin.out.airtime.pro:8000/radioislamin_a?type=mp3"
+     },
+     {  
+        "id":60,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Naadan Radio Malayalam",
+        "post_img":"https://radiosindia.com/images/naadanradio.jpg",
+        "site":"http://node-31.zeno.fm/xpv31aa46qzuv?rj-ttl=5&rj-tok=AAABcW4RMcwAl8PRUNNB_iT7bw"
+     },
+     {  
+        "id":61,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Radio Ayyappa Malayalam",
+        "post_img":"https://radiosindia.com/images/radioayyappa.jpg",
+        "site":"http://node-28.zeno.fm/cmncw0f84qzuv?rj-ttl=5&rj-tok=AAABcW4Se_sAjhV2nzLJ4bwVNg"
+     },
+     {  
+        "id":62,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Samskriti Radio",
+        "post_img":"https://radiosindia.com/images/samskriti.jpg",
+        "site":"http://node-02.zeno.fm/uqufs14w8qzuv?rj-ttl=5&rj-tok=AAABcW4Tu4EAZp4xafnw6gn24w"
+     },
+     {  
+        "id":63,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Dharma Radio",
+        "post_img":"https://radiosindia.com/images/dharmaradio.jpg",
+        "site":"https://dharmaradio.out.airtime.pro/dharmaradio_a"
+     },
+     {  
+        "id":64,//Devotional
+        "album" : "Jazz & Blues",
+        "artist" : "Media Right Productions",
+        "genre" : "Jazz & Blues",
+        "source" : "",
+        "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+        "trackNumber" : 1,
+        "totalTrackCount" : 6,
+        "duration" : 103,
+        "title":"Njan Malayali Bhakthi Radio",
+        "post_img":"https://radiosindia.com/images/njanmalayalibhakthi.jpg",
+        "site":"http://91.121.222.81:8342/;"
+     }
+  
+
+  ]
+}
