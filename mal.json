@@ -29,6 +29,20 @@
       "site":"https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_0/chunklist.m3u8"
    },
    {  
+      "id":101,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Mohanlal hits Malayalam",
+      "post_img":"https://radiosindia.com/images/radiomango.jpg",
+      "site":"http://stream.zenolive.com/5vva7u4ts0quv"
+   },
+   {  
       "id":3,
       "album" : "Jazz & Blues",
       "artist" : "Media Right Productions",
@@ -572,7 +586,7 @@
       "duration" : 103,
       "title":"Music 24 x 7 Radio",
       "post_img":"https://radiosindia.com/images/malayalammusic.jpg",
-      "site":"https://stream.zenolive.com/g8cx7tggb3quv.aac"
+      "site":"http://node-09.zeno.fm/g8cx7tggb3quv.aac?rj-ttl=5&rj-tok=AAABckWtOSwASj1xFlPisNBYpg"
    },
    {  
       "id":42,
