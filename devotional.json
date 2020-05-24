@@ -29,6 +29,20 @@
         "site":"http://178.32.62.154:8548/stream"
      },
      {  
+      "id":109,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Quran Radio Malayalam",
+      "post_img":"https://radiosindia.com/images/onlinequranradio.jpg",
+      "site":"http://quraan.us:9968/;"
+     },
+     {  
         "id":46,//Devotional
         "album" : "Jazz & Blues",
         "artist" : "Media Right Productions",
@@ -210,6 +224,20 @@
         "post_img":"https://radiosindia.com/images/mappilasongs.jpg",
         "site":"http://node-31.zeno.fm/57tmu33zetzuv?rj-ttl=5&rj-tok=AAABcW4OSUoA1kfKm1us9Ypm-g"
      },
+     {  
+      "id":110,//Devotional
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Red Indies Malayalam",
+      "post_img":"https://radiosindia.com/images/redindiesmalayalam.jpg",
+      "site":"     https://redlive1.listenon.in/Malayalam"
+    },
      {  
         "id":59,//Devotional
         "album" : "Jazz & Blues",
