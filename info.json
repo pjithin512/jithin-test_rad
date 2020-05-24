@@ -1,27 +1,63 @@
-{"Message" : '<h1>HTML Ipsum Presents</h1>
+{"Message" : '<!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset='utf-8'>
+      <meta name='viewport' content='width=device-width'>
+      <title>Privacy Policy</title>
+      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
+    </head>
+    <body>
+    <strong>Privacy Policy</strong> <p>
+                  We built the Radio app as
+                  an Ad Supported app. This SERVICE is provided by
+                  Radio at no cost and is intended for use as
+                  is.
+                </p> <p>
+                  This page is used to inform visitors regarding my
+                  policies with the collection, use, and disclosure of Personal
+                  Information if anyone decided to use my Service.
+                </p> <p>
+                  If you choose to use my Service, then we are NOT COLLECTING AND NOT USING your personal Informations.
+                </p> <p>
+                  The terms used in this Privacy Policy have the same meanings
+                  as in our Terms and Conditions, which is accessible at
+                  Radio unless otherwise defined in this Privacy Policy.
+                </p> <p><strong>Information Collection and Use</strong></p> <p>
+                  For a better experience, while using our Service.
+                </p> <div><p>
+                    The app does use third party services that may collect
+                    information used to identify you.
+                  </p> <p>
+                    Link to privacy policy of third party service providers used
+                    by the app
+                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Credits</strong></p> <p>
+                  We are collecting data from following sites
+                </p> <ul><li><a href="http://radio.garden/" target="_blank">Radio garden</a></li>
+                <li><a href="https://radiosindia.com" target="_blank">Radiosindia</a></li></ul> <p>
+                  I want to inform users of this Service
+                  that these third parties.
 
-<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+                <p><strong>Thanks</strong></p> <p>
+                  Thank you all.
+                </p> <ul><li>Idea:Sreekanth</li>
+                <li>Thanks for all the friends who helps and support for development</li></ul> <p>
 
-<h2>Header Level 2</h2>
-
-<ol>
-   <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-   <li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
-
-<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
-
-<h3>Header Level 3</h3>
-
-<ul>
-   <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-   <li>Aliquam tincidunt mauris eu risus.</li>
-</ul>
-
-<pre><code>
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-</code></pre>'}
+                </p> <p><strong>Security</strong></p> <p>
+                  We are not collecting your personal datas.
+                </p> <p><strong>Changes to This Privacy Policy</strong></p> <p>
+                  We may update our Privacy Policy from
+                  time to time. Thus, you are advised to review this page
+                  periodically for any changes. I will
+                  notify you of any changes by posting the new Privacy Policy on
+                  this page.
+                </p> <p>This policy is effective as of 2020-05-24</p> <p><strong>Contact Us</strong></p> <p>
+                  If you have any questions or suggestions about my
+                  Privacy Policy, do not hesitate to contact me at
+                  <br>
+                  <a href="mailto:radioplayer512@gmail.com">Send email</a>
+                  <br>
+                  <a href="https://api.whatsapp.com/send?phone=919526158308">Send Whatsapp Message</a>
+                </p> 
+    </body>
+    </html>
+      '}
