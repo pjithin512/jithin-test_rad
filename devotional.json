@@ -321,8 +321,91 @@
         "title":"Njan Malayali Bhakthi Radio",
         "post_img":"https://radiosindia.com/images/njanmalayalibhakthi.jpg",
         "site":"http://91.121.222.81:8342/;"
-     }
-  
-
+     },
+     {  
+      "id":144,//Devotional
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Mana Radio devotional ",
+      "post_img":"https://radiosindia.com/images/manaradio.jpg",
+      "site":"http://stream.zeno.fm/z9w5pna26qzuv"
+   },
+   {  
+      "id":145,//Devotional
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Shalom beats",
+      "post_img":"https://radiosindia.com/images/shalombeatsradio.jpg",
+      "site":"http://rd.shalombeatsradio.com:9190/stream"
+   },
+   {  
+      "id":146,//Devotional
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Bible Radio Telugu",
+      "post_img":"https://radiosindia.com/images/bibleis.jpg",
+      "site":"http://radio.bible.is:8000/TCWWTCN1DA"
+   },
+   {  
+      "id":147,//Devotional
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Neeswaram",
+      "post_img":"https://radiosindia.com/images/neeswaram.jpg",
+      "site":"http://neeswaram.riggrodigital.com:8035/stream;stream.mp3"
+   },
+   {  
+      "id":148,//Devotional
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Gelupu Telugu FM",
+      "post_img":"https://radiosindia.com/images/gelupuradio.jpg",
+      "site":"http://stream.zeno.fm/c97xa7936qzuv"
+   },
+   {  
+      "id":149,//Devotional
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Telugu christian radio",
+      "post_img":"https://radiosindia.com/images/teluguchristianradio.jpg",
+      "site":"https://eu2.fastcast4u.com/proxy/teluguchristainradio?mp=/1"
+   }
+   
   ]
 }
