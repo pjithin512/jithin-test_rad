@@ -39,7 +39,7 @@
       "totalTrackCount" : 6,
       "duration" : 103,
       "title":"Mohanlal hits Malayalam",
-      "post_img":"https://radiosindia.com/images/radiomango.jpg",
+      "post_img":"https://radiosindia.com/images/mohanlal.jpg",
       "site":"http://stream.zenolive.com/5vva7u4ts0quv"
    },
    {  
@@ -83,6 +83,20 @@
       "title":"Radio Suno",
       "post_img":"https://radiosindia.com/images/radiosuno.jpg",
       "site":"https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC"
+   },
+   {  
+      "id":102,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Suno Melody 91.7 Malayalam",
+      "post_img":"https://radiosindia.com/images/radiosunomelody.jpg",
+      "site":"http://18593.live.streamtheworld.com/RADIO_SUNO_MELODY_S06.mp3"
    },
    {  
       "id":6,
@@ -237,6 +251,48 @@
       "title":"Kuwait FM",
       "post_img":"https://radiosindia.com/images/kuwait1fm.jpg",
       "site":"http://stream.zeno.fm/pzaenuw93qzuv"
+   },
+   {  
+      "id":103,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Radio Asia Malayalam",
+      "post_img":"https://radiosindia.com/images/radioasiauae.jpg",
+      "site":"https://eu8.fastcast4u.com/proxy/qqyspjqd?mp=/;"
+   },
+   {  
+      "id":104,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"CE Talks Radio",
+      "post_img":"https://radiosindia.com/images/cetalks.jpg",
+      "site":"https://streaming.radio.co/s8c7294f48/listen"
+   },
+   {  
+      "id":105,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Oman Malayalam",
+      "post_img":"https://radiosindia.com/images/omanmalayalam.jpg",
+      "site":"https://eu5.fastcast4u.com/proxy/vgfquawo?mp=/;"
    },
    {  
       "id":17,
@@ -515,7 +571,7 @@
       "totalTrackCount" : 6,
       "duration" : 103,
       "title":"Radio delhi Malayalam",
-      "post_img":"https://radiosindia.com/images/paattupetti.jpg",
+      "post_img":"https://radiosindia.com/images/radiodelhimalayalam.jpg",
       "site":"http://94.23.30.114:8043/rdm"
    },
    {  
@@ -615,6 +671,48 @@
       "title":"Raagam Radio",
       "post_img":"https://radiosindia.com/images/404.jpg",
       "site":"http://147.135.181.83:9400/stream"
+   },
+   {  
+      "id":106,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"RADIO MYTHRI",
+      "post_img":"https://radiosindia.com/images/radiomythri.jpg",
+      "site":"http://node-15.zeno.fm/gtpfzu9bfwzuv?rj-ttl=5&rj-tok=AAABckXFHTYA7gNgZWlHkTzl3A"
+   },
+   {  
+      "id":107,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"OMR Radio",
+      "post_img":"https://radiosindia.com/images/omrradio.jpg",
+      "site":"http://node-35.zeno.fm/x2baeup395quv?rj-ttl=5&rj-tok=AAABckXJya8AutAtupoOZ--DzQ"
+   },
+   {  
+      "id":108,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "master.m3u8",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"E Malayalam Radio",
+      "post_img":"https://radiosindia.com/images/emalayalam1.jpg",
+      "site":"https://streamingv2.shoutcast.com/emgradio"
    }
   
 ]
