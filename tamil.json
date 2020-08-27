@@ -82,7 +82,7 @@
       "duration" : 103,
       "title":"Ar Rahman online",
       "post_img":"https://radiosindia.com/images/arrahmanradio.jpg",
-      "site":"https://16643.live.streamtheworld.com/ARRAHMANRADIO_S01.aac"
+      "site":"https://playerservices.streamtheworld.com/api/livestream-redirect/ARRAHMANRADIO_S01.aac"
    },
    {  
       "id":77,
