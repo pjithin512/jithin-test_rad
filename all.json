@@ -2323,7 +2323,93 @@
    "title":" BBC world servie English",
    "post_img":"https://radiosindia.com/images/bbcworldservice.jpg",
    "site":"http://stream.zeno.fm/dwbqa48a4qzuv"
+},
+{  
+   "id":168,
+   "album" : "Jazz & Blues",
+   "artist" : "Media Right Productions",
+   "genre" : "Jazz & Blues",
+   "source" : "",
+   "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+   "trackNumber" : 1,
+   "totalTrackCount" : 6,
+   "duration" : 103,
+   "title":"Radio Paakkad",
+   "post_img":"https://radiosindia.com/images/radiopalakkad1.jpg",
+   "site":"https://node-23.zeno.fm/qgqrxfte41zuv"
+},
+{  
+   "id":169,
+   "album" : "Jazz & Blues",
+   "artist" : "Media Right Productions",
+   "genre" : "Jazz & Blues",
+   "source" : "",
+   "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+   "trackNumber" : 1,
+   "totalTrackCount" : 6,
+   "duration" : 103,
+   "title":"Radio Palamadom",
+   "post_img":"https://radiosindia.com/images/radiopalamadom.jpg",
+   "site":"https://node-11.zeno.fm/fbbg2pbbmbruv"
+},
+{  
+   "id":170,
+   "album" : "Jazz & Blues",
+   "artist" : "Media Right Productions",
+   "genre" : "Jazz & Blues",
+   "source" : "",
+   "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+   "trackNumber" : 1,
+   "totalTrackCount" : 6,
+   "duration" : 103,
+   "title":"Tune Kerala",
+   "post_img":"https://radiosindia.com/images/tunekerala.jpg",
+   "site":"https://eu1.fastcast4u.com/proxy/tunekerala"
+},
+{  
+   "id":171,
+   "album" : "Jazz & Blues",
+   "artist" : "Media Right Productions",
+   "genre" : "Jazz & Blues",
+   "source" : "",
+   "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+   "trackNumber" : 1,
+   "totalTrackCount" : 6,
+   "duration" : 103,
+   "title":"Aural Radio",
+   "post_img":"https://radiosindia.com/images/auralradio.jpg",
+   "site":"https://node-10.zeno.fm/8ux50camqwzuv"
+} ,
+{  
+   "id":172,
+   "album" : "Jazz & Blues",
+   "artist" : "Media Right Productions",
+   "genre" : "Jazz & Blues",
+   "source" : "",
+   "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+   "trackNumber" : 1,
+   "totalTrackCount" : 6,
+   "duration" : 103,
+   "title":"Southern Spice",
+   "post_img":"https://radiosindia.com/images/southernspice.jpg",
+   "site":"https://node-11.zeno.fm/334vp7q261zuv"
+} ,
+{  
+   "id":173,
+   "album" : "Jazz & Blues",
+   "artist" : "Media Right Productions",
+   "genre" : "Jazz & Blues",
+   "source" : "",
+   "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+   "trackNumber" : 1,
+   "totalTrackCount" : 6,
+   "duration" : 103,
+   "title":"AR RADIO",
+   "post_img":"https://radiosindia.com/images/arradio.jpg",
+   "site":"https://node-26.zeno.fm/heq754gwxwzuv"
 }
+    
+    
 
   
 ]
