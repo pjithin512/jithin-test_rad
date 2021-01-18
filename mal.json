@@ -110,7 +110,7 @@
       "duration" : 103,
       "title":"AIR kozhikode fm",
       "post_img":"https://radiosindia.com/images/airkozhikodefm.jpg",
-      "site":"https://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP065_1@866599/master.m3u8"
+      "site":"https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/chunklist.m3u8"
    },
    {  
       "id":8,
@@ -124,7 +124,7 @@
       "duration" : 103,
       "title":"AIR Manjeri",
       "post_img":"https://radiosindia.com/images/airmanjeri.jpg",
-      "site":"https://airlsmp-lh.akamaihd.net/i/AIRLSMP037_1@855171/master.m3u8"
+      "site":"https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/chunklist.m3u8"
    },
    {  
       "id":9,
@@ -138,7 +138,7 @@
       "duration" : 103,
       "title":"Ananthapuri FM",
       "post_img":"https://radiosindia.com/images/air.jpg",
-      "site":"https://airlsmp-lh.akamaihd.net/i/AIRLSMP024_1@855157/index_1_a-p.m3u8"
+      "site":"https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/chunklist.m3u8"
    },
    {  
       "id":10,
@@ -152,7 +152,7 @@
       "duration" : 103,
       "title":"AIR Malayalam",
       "post_img":"https://radiosindia.com/images/air.jpg",
-      "site":"https://airmalayalam-lh.akamaihd.net/i/airmalayalam_1@507816/index_1_a-p.m3u8"
+      "site":"https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/chunklist.m3u8"
    },
    {  
       "id":11,
