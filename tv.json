@@ -1,0 +1,62 @@
+{
+  "music": [
+   {  
+      "id":1,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"M4 Malayalam HD",
+      "post_img":"https://radiosindia.com/images/arrahmanradio.jpg",
+      "site":"http://app.m4stream.live/mfourmalayalamhls/live.m3u8"
+   },
+   {  
+      "id":1,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"UBL HD",
+      "post_img":"https://radiosindia.com/images/arrahmanradio.jpg",
+      "site":"https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w222706225.m3u8"
+   },
+   {  
+      "id":1,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Pulari",
+      "post_img":"https://radiosindia.com/images/arrahmanradio.jpg",
+      "site":"http://192.99.2.28/pularitv_hls/pularitv.m3u8"
+   },
+   {  
+      "id":1,
+      "album" : "Jazz & Blues",
+      "artist" : "Media Right Productions",
+      "genre" : "Jazz & Blues",
+      "source" : "",
+      "image" : "http://www.thehindu.com/migration_catalog/article10113803.ece/alternates/FREE_660/08MP_rahman.jpg",
+      "trackNumber" : 1,
+      "totalTrackCount" : 6,
+      "duration" : 103,
+      "title":"Asianet ME",
+      "post_img":"https://radiosindia.com/images/arrahmanradio.jpg",
+      "site":"http://14.199.164.20:4001/play/a0k6/index.m3u8"
+   }
+   
+   
+   ]
+}
